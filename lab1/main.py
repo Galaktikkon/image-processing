@@ -3,7 +3,6 @@ import cv2
 import matplotlib.pyplot as plt
 import argparse
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics.pairwise import cosine_similarity
 
 
 def create_emoticons(emoticon: str):
