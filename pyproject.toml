@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "jupyter>=1.1.1",
+    "keras>=3.12.0",
     "matplotlib>=3.10.7",
     "numpy>=2.3.3",
     "opencv-python>=4.11.0.86",
@@ -13,4 +14,6 @@ dependencies = [
     "pywavelets>=1.9.0",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
+    "tensorboard>=2.20.0",
+    "tensorflow>=2.20.0",
 ]
